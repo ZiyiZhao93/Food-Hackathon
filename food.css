@@ -1,5 +1,24 @@
-.title
+.title {
+	width: 1000px;
+	heigh: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 40px;
+	text-align: center;
+}
 
+
+.intro {
+	width:550px;
+	heigh:60px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	font-family: 'Crimson Text', serif;
+}
 
 
 
