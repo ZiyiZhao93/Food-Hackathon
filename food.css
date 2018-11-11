@@ -1,23 +1,62 @@
-.title {
-	width: 1000px;
-	heigh: 100px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	font-family: 'Libre Baskerville', serif;
-	font-size: 40px;
-	text-align: center;
+* {
+	margin: 0px;
+	padding: 0px;
 }
 
+.photo {
+	width: 1000px;
+}
 
-.intro {
-	width:550px;
-	heigh:60px;
+#top {
+	width: 1200px;
+}
+
+.title {
+	width: 500px;
+	height: 500px;
+	margin-top: -450px;
+	margin-left: 600px;
+}
+
+#head {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 50px;
+	color: white;
+}
+
+#intro {
 	margin-top: 50px;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 20px;
 	font-family: 'Crimson Text', serif;
+	color: white;
+}
+
+.box1 {
+	width: auto;
+	height: 600px;
+	background-color: red;
+}
+
+.box2 {
+	width: auto;
+	height: 600px;
+	background-color: green;
+}
+
+.box3 {
+	width: auto;
+	height: 600px;
+	background-color: blue;
+}
+
+.box4 {
+	width: auto;
+	height: 600px;
+	background-color: yellow;
 }
 
 
